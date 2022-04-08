@@ -25,9 +25,10 @@ const Footer = () => <footer className="page-footer font-small pt-4">
             <div className="col-md-3 mb-md-0 mb-3">
                 <h5 className="text-uppercase">BookJacker</h5>
                 <ul className="list-unstyled">
-                    <li><a href="#!">About Us</a></li>
-                    <li><a href="https://www.facebook.com/CrazyHaider">Tanvir Ahmed</a></li>
-                    <li><a href="https://www.facebook.com/mishurahman70">Mishu Rahman</a></li>
+                    <li><a href="#!">About Me</a></li>
+                    <li><a href="https://www.facebook.com/mishurahman70">Mishu Rahman on Facebook</a></li>
+                    <li><a href="https://codeforces.com/profile/mishurahman">Mishu Rahman on Codeforces</a></li>
+                    <li><a href="https://github.com/mishurahman616">Mishu Rahman on GitHub</a></li>
                 </ul>
             </div>
         </div>
