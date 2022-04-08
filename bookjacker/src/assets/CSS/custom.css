@@ -1,0 +1,147 @@
+.topNavbar{
+    display: block;
+    font-family: 'Rubik', sans-serif;
+    background-color: #000000!important;
+    margin-bottom: 100px;
+    
+}
+.nav-item{
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.navbarTitle{
+    color:#f5f5f5;
+    font-weight: bold;
+    text-decoration: none;
+
+    
+}
+.navbar-brand{
+    margin: -10px 20px -10px 20px;
+}
+.navbarTitle:hover{
+    color:#20ffbc;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+.navbarTitleOnScrol{
+    color:#4cdef8;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+.navbarItem{
+    text-decoration: none;
+    color: white;
+}
+.navbarItem:hover{
+    color: rgb(0, 0, 0);
+    border: 1px solid white;
+    padding: 5px 3px;
+    background-color: rgb(233, 233, 233);
+}
+.active{
+    color:rgb(0, 255, 13);
+}
+
+.topSearchBar{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+
+
+/*Home Page book card */
+.card-group{
+    margin: 0 50px 0 50px;
+}
+.card{
+    min-width: 300px;
+    max-width: 300px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #303030;
+    color: white;
+}
+.card:hover{
+   /* background-color: #a8a7a7; */
+    font-weight: bold;
+}
+.card-img-top{
+    border-radius: 3%;
+    border:1px solid rgb(143, 151, 154);
+    padding: 2px;
+}
+.card-body{
+    min-height: 50px;
+}
+.card-footer{
+    background: transparent;
+    border:none;
+}
+.bookDetails{
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.openBookLeft{
+    
+    border:rgba(201, 27, 27, 0.2) 5px solid;
+    border-right: 1px solid rgb(182, 182, 182);
+    box-shadow: 5px 10px 8px #888888;
+
+}
+.openBookRight{
+    border:rgba(201, 27, 27, 0.2) 5px solid;
+    border-left: none;
+    box-shadow: 5px 10px 8px #888888;
+
+}
+
+.footer{
+    padding-top: 20px;
+    background-color: #888888;
+    color: white;
+    
+}
+.footer a{
+    color:black;
+}
+.footer a:hover{
+    color:rgb(235, 255, 53)
+}
+.footer-copyright{
+    background-color: black;
+    color:white;
+}
+.search-page-min-height{
+    min-height: 380px;
+}
+.search-page-min-height h1{
+    color:rgba(0, 255, 255, 0.921);
+    margin-top: 15px;
+}
+/* user books showcase style*/
+.user-book-show-col{
+    margin-top: 100px;
+    background-color: #d6d9d9;
+}
+.user-book-upload-col{
+   
+    border: 1px solid blueviolet;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.user-book-upload-col .button-center{
+   
+    text-align: center;
+}
+
+.uploadbookpage{
+    color:white;
+}
+

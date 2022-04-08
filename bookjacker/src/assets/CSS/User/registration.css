@@ -1,0 +1,24 @@
+
+.registration-form-body{
+    border:1px solid blue;
+    border-radius: 4%;
+   background-color: rgb(162, 224, 240);
+   padding: 2%;
+  
+}
+.registration-form-body h1, h2, h3, h4{
+    text-align: center;
+    padding: 5px 0 0 0;
+}
+
+.registration-form-body .form-label{
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+.registration-form-body button{
+   margin-left: 40%;
+}
+
+.registration-form-container{
+    margin: 20px 0;
+}
